@@ -16,7 +16,7 @@ I'm a IT graduate transitioning to front-end development, currently working thro
 -->
 
 ## 🔧 Current Tech Stack
-JavaScript, TypeScript, React, Next.js, HTML5, CSS3, TailwindCSS, Git, Linux (NixOS), Docker, Vercel
+JavaScript, TypeScript, React, Next.js, HTML5, CSS3, TailwindCSS, Git, Linux (NixOS), NeoVim, Docker, Vercel
 
 ## 📫 Let's Connect
 Currently seeking junior front-end developer opportunities!
