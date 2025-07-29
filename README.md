@@ -3,7 +3,7 @@
 I'm a IT graduate transitioning to front-end development, currently working through The Odin Project curriculum.
 
 ## 🚀 Learning Journey - [The Odin Project](https://www.theodinproject.com/)
-**Completed Projects** (HTML → CSS → JavaScript → React → TypeScript)
+**Some of my completed projects** (HTML → CSS → JavaScript → React → TypeScript)
 
 - **Calculator** - [HTML | CSS | JavaScript] - [Live Demo](https://kodnova.github.io/Odin-Calculator/) | [Code](https://github.com/KodNova/Odin-Calculator)
 - **Library** - [HTML + CSS +  JavaScript + Objects] - [Live Demo](https://kodnova.github.io/Odin-Library/) | [Code](https://github.com/KodNova/Odin-Library)
