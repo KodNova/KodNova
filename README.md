@@ -20,4 +20,4 @@ JavaScript, TypeScript, React, Next.js, HTML5, CSS3, TailwindCSS, Git, Linux (Ni
 
 ## 📫 Let's Connect
 Currently seeking junior front-end developer opportunities!
-- Email: KodNova@proton.me
+- Email: Joseph@KodNova.Dev
