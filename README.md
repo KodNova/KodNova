@@ -19,5 +19,5 @@ I'm a IT graduate transitioning to front-end development, currently working thro
 JavaScript, TypeScript, React, Next.js, HTML5, CSS3, TailwindCSS, Git, Linux (NixOS), NeoVim, Docker, Vercel
 
 ## 📫 Let's Connect
-Currently seeking junior front-end developer opportunities!
+Currently seeking junior developer opportunities!
 - Email: Joseph@KodNova.Dev
