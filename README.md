@@ -11,12 +11,9 @@ I'm a IT graduate transitioning to Software development. Started with web dev, b
 - **Todo List** : [JavaScript + ES6 Modules + Webpack] - [Live Demo](https://kodnova.github.io/Odin-Todo-List/) | [Code](https://github.com/KodNova/Odin-Todo-List)
 - **Memory Card Game** : [TypeScript + async API + Vercel Hosting] - [Live Demo](https://odin-memory-card-xi.vercel.app/) | [Code](https://github.com/KodNova/odin-memory-card)
 - **Shopping Cart** : [React + Typescript + useContext + React router + Vercel] - [Live Demo](https://odin-shopping-cart-navy.vercel.app/) | [Code](https://github.com/KodNova/odin-shopping-cart)
-<!--
-*[Link to view all 17 projects](github-link)*
--->
 
 ## 🔧 Current Tech Stack
-TypeScript, React, Next.js, HTML5, CSS3, TailwindCSS, Git, Linux (NixOS), NeoVim, Docker, Vercel
+TypeScript, Rust, React, TailwindCSS, HTML5, CSS3, Git, Linux (NixOS), NeoVim, Docker
 
 ## 📫 Let's Connect
 Currently seeking developer opportunities!
